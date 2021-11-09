@@ -1,4 +1,4 @@
-N = 100
+N = 50
 
 for i in range(N):
   for j in range(1, i):
