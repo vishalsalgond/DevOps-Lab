@@ -1,2 +1,2 @@
 # DevOps-Lab
-Sample GitHub Repository
+Sample GitHub Repository for DevOps Lab
